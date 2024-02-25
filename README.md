@@ -1,6 +1,6 @@
 🤙 Aloha from Hawaii! 🏄
 
-I'm [Your Name], a fervent web developer and programmer weaving digital experiences with the rhythm of innovation. Rooted in Hawaii, I view coding as an art form where the aloha spirit not only inspires creativity but infuses precision into every line of code.
+I'm a fervent web developer and programmer weaving digital experiences with the rhythm of innovation. Rooted in Hawaii, I view coding as an art form where the aloha spirit not only inspires creativity but infuses precision into every line of code.
 
 🚀 What I Do:
 Meticulously sculpting visually captivating front-end interfaces is my craft, while architecting robust back-end solutions forms the backbone of my coding journey. Each project becomes a narrative, a journey of ideas translated into a harmonious symphony of seamless design and elegant execution.
