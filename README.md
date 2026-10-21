@@ -1,4 +1,4 @@
-# Aloha, From Hawaiʻi 🌊
+# Aloha From Hawaiʻi 🌊
 
 I’m a developer, builder, researcher, and lifelong learner from Hawaiʻi.
 
